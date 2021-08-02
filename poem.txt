@@ -1,3 +1,9 @@
-The Rainbow
-The Red
-The Blue
+These are the colours
+Rainbow
+Red
+Green
+Blue
+Violet
+Yellow
+Orange
+
